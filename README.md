@@ -1,5 +1,5 @@
 # Naouelle.github.io
-Meteor team//Dashboard for magic bus !
+
 Hello to all guests,
 
 This is a project called "meteor bus, or magic bus" that is being created by team meteor at WCS.(wild code school), our digital school.
